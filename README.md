@@ -25,6 +25,7 @@ A range of tools are available to meet a range of DevOps needs. Tools may includ
 # Cloud Computing 
 
 ![cloud](https://github.com/A-Ahmed100216/DevOps/blob/main/cloud-computing.png)
+
 Cloud Computing is the on-demand delivery of a range of services such as Compute, Storage, and Databases, over the internet, utilising a pay-as-you-go pricing model. 
 
 ## What is SAAS, PAAS, IAAS?
