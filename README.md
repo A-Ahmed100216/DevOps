@@ -46,9 +46,9 @@ Deployment is typically categorised into three main categories:
 * Hybrid - This is a mixture of both Cloud and on-premise where some tasks may be completed using the cloud, and others, typically tasks which prioritise discretion, may opt for on-premise. 
 
 # References:
-[AWS,no date](https://aws.amazon.com/devops/)
-[Ranger, S. 2018](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
-[Monus, A. 2018](https://raygun.com/blog/best-devops-tools/)
+* [AWS,no date](https://aws.amazon.com/devops/)
+* [Ranger, S. 2018](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
+* [Monus, A. 2018](https://raygun.com/blog/best-devops-tools/)
 
 
 
