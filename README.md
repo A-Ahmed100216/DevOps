@@ -27,10 +27,10 @@ Cloud Computing is the on-demand delivery of a range of services such as Compute
 
 ## What is SAAS, PAAS, IAAS?
 There are three models of cloud computing. These are:
+
+![Models](https://github.com/A-Ahmed100216/DevOps/blob/main/Models.png)
 * IAAS – Infrastructure as a Service – This refers to the fundamental building blocks required such as servers. This offers a high level of flexibility. An example of an IAAS platform is AWS which provisions servers and services via the Cloud.
-
 * PAAS – Platform as a Service – This is a framework which provides users with the underlying infrastructure and services such as storage, networking etc.
-
 * SAAS – Software as a Service is the final application delivered to users. A common example is Gmail wherein users do not manage any other underlying infrastructure. 
 
 ## Deployment 
