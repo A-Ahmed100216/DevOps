@@ -20,7 +20,10 @@ Tools
 A range of tools are available to meet a range of DevOps needs. Tools may include:
 * AWS CodePipeline/Code Deploy/CodeBuild = These are all AWS services which can be used for the purposes of continuous integration and continuous deliver, for example. CodeBuild is a fully managed service that compiles code, runs tests, and produces read-to-deploy software. 
 * Git – Git is a version control software which allows teams to collaborate and share source code. It also ensures all previous versions are available This embodies the DevOps philosophy of communication and collaboration a well as supporting continuous integration wherein code is continuously merged into repositories. 
-
+* Jenkins - Jenkins is an open source CI/CD server therein allowing code to be iterated and deployed as quickly as possible.
+* Docker - Container Platform which enables distributed deployment and automates app deployment. 
+* Kubernetes - Container orchestration platform which works with Docker and allows you to automate the mangement of many containers. 
+* Ansible - Configuration management tool which allows you to configure infrastructure and automate deployment. Ansible uses a IAAC approach. 
 
 # Cloud Computing 
 
@@ -42,6 +45,10 @@ Deployment is typically categorised into three main categories:
 * Cloud / Public Cloud – The service provider hosts infrastructure and provisions to customers via the internet.
 * Hybrid - This is a mixture of both Cloud and on-premise where some tasks may be completed using the cloud, and others, typically tasks which prioritise discretion, may opt for on-premise. 
 
+# References:
+[AWS,no date](https://aws.amazon.com/devops/)
+[Ranger, S. 2018](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
+[Monus, A. 2018](https://raygun.com/blog/best-devops-tools/)
 
 
 
