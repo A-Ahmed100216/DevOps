@@ -1,4 +1,6 @@
 # What is DevOps?
+![devopimage](https://github.com/A-Ahmed100216/DevOps/blob/main/Devops.png)
+
 DevOps is a combination of the work conducted by Development Teams and Operations Teams.
 Prior to the formation of a ‘DevOps’ roles, these two departments functioned as separate entities with Development 
 focussing upon tasks such as implementing new product features, fixing bugs and ensuring security. 
